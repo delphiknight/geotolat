@@ -32,3 +32,6 @@ Based on the original plugin by Sergey Biryukov.
 
 = 1.0 =
 * Initial release
+
+= 1.0.1 =
+* Minor bug fixes
