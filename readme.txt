@@ -1,5 +1,5 @@
 === Geo to Lat ===
-Contributor: Dimitri Gogelia
+Contributor: dimitrigog
 Tags: Georgian, latin, l10n, slugs, translations, transliteration, media
 Requires at least: 4.0
 Tested up to: 4.9.6
@@ -34,4 +34,7 @@ Based on the original plugin by Sergey Biryukov.
 * Initial release
 
 = 1.0.1 =
+* Minor bug fixes
+
+= 1.0.2 =
 * Minor bug fixes
