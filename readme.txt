@@ -1,9 +1,9 @@
 === Geo to Lat ===
 Contributor: dimitrigog
-Tags: Georgian, latin, l10n, slugs, translations, transliteration, media
+Tags: Georgian, Latin, l10n, slugs, translations, transliteration, media
 Requires at least: 4.0
-Tested up to: 5.4.2
-Stable tag: 5.4.2
+Tested up to: 5.6
+Stable tag: 5.6
 
 Converts Georgian characters in post, page and term slugs to Latin characters.
 
@@ -47,3 +47,6 @@ Based on the original plugin by Sergey Biryukov.
 
 = 1.0.5 =
 * Testing WordPress 5.4.2 Compatibility
+
+= 1.0.6 =
+* Testing WordPress 5.6 Compatibility
