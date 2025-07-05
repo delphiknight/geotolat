@@ -2,8 +2,8 @@
 Contributor: dimitrigog
 Tags: Georgian, Latin, l10n, slugs, translations, transliteration, media
 Requires at least: 4.0
-Tested up to: 5.7
-Stable tag: 5.7
+Tested up to: 5.8
+Stable tag: 5.8
 
 Converts Georgian characters in post, page and term slugs to Latin characters.
 
@@ -53,3 +53,6 @@ Based on the original plugin by Sergey Biryukov.
 
 = 1.0.7 =
 * Testing WordPress 5.7 Compatibility
+
+= 1.0.8 =
+* Testing WordPress 5.8 Compatibility
