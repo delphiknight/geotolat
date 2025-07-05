@@ -2,7 +2,7 @@
 Contributor: dimitrigog
 Tags: Georgian, Latin, l10n, slugs, transliteration
 Requires at least: 4.0
-Tested up to: 6.7
+Tested up to: 6.8
 Stable tag: 4.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -85,3 +85,6 @@ Based on the original plugin by Sergey Biryukov.
 
 = 1.0.17 =
 * Testing WordPress 6.7 Compatibility
+
+= 1.0.18 =
+* Testing WordPress 6.8 Compatibility
