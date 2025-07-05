@@ -28,7 +28,7 @@ Based on the original plugin by Sergey Biryukov.
 1. Upload `Geo to Lat` folder to the `/wp-content/plugins/` directory.
 2. Activate the plugin through the 'Plugins' menu in WordPress.
 
-== Changelog. ==
+== Changelog ==
 
 = 1.0 =
 * Initial release
